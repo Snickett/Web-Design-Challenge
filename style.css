@@ -48,6 +48,15 @@
     font-style: italic;
 }
 
+.navigationbar{
+
+    text-align: left;
+    font-weight: normal;
+	font-size: 20px;
+}
+
+
+
 .white-font{
     color: white;
     font-weight: bold;
@@ -61,6 +70,6 @@
     margin-right: 60px;
     margin-bottom: 10px;
     /* background-color: rgb(204, 214, 225); */
-    background-color: #00695c;
+    background-color: #000000;
     color: white;
 }
